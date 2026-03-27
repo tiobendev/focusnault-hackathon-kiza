@@ -75,3 +75,8 @@ Abra seu projeto usando [http://localhost:3000](http://localhost:3000) ou no lin
 - Notion
 - Github
 - Discord
+
+### Sobre
+Este prejeto roda localmente. Ainda falta algumas features para desenvolver, por hora os membros mais ativos da equipe decidiram que este será o final point do projeto no hackatho. O projeto original se encontra em repositório privado caso os colaboradores da Equipe 06 ainda queriam continuar seus estudos e desenvolvimento.
+
+For more updates, don't wait.
