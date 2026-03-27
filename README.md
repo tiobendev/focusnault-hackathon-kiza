@@ -91,6 +91,12 @@ Para conferir todas as dependências, veja os arquivos package.json
 - Github
 - Discord
 
+---
+### Feedback's do Time
+
+@tiobendev: Embora algumas complicações técnicas e não técnicas durante o Hackathon, foi muito bom e empolgante trabalhar com essa galera, aprendi muito sobre backend com witleyseong, sobre githubflow com o maguslim, e mais ainda sobre humildade ajudando o Rangeell com o que sei em sua possível transição de carreira, parabéns a todos da Equipe 06, vocês mandaram muito bem mesmo com outras prioridades da vida. Aos demais que não apareceram muito, vocês sempre são sempre bem vindos para colaborar, perguntar e pedir ajuda, como sempre!
+
+---
 
 ### Sobre
 Este prejeto roda localmente. Ainda falta algumas features para desenvolver, por hora os membros mais ativos no projeto decidiram que este será o final point do projeto no hackathon. O projeto original se encontra em repositório privado caso os colaboradores da Equipe 06 ainda queriam continuar seus estudos e desenvolvimento.
@@ -98,3 +104,7 @@ Este prejeto roda localmente. Ainda falta algumas features para desenvolver, por
 <img width="1468" height="844" alt="Frame 24" src="https://github.com/user-attachments/assets/8ade52c4-b281-4f1e-a46f-ba9fb8df0930" />
 
 For more updates, don't wait.
+
+
+
+
