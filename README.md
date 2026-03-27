@@ -94,4 +94,6 @@ Para conferir todas as dependências, veja os arquivos package.json
 ### Sobre
 Este prejeto roda localmente. Ainda falta algumas features para desenvolver, por hora os membros mais ativos no projeto decidiram que este será o final point do projeto no hackathon. O projeto original se encontra em repositório privado caso os colaboradores da Equipe 06 ainda queriam continuar seus estudos e desenvolvimento.
 
+<img width="1468" height="844" alt="Frame 24" src="https://github.com/user-attachments/assets/8ade52c4-b281-4f1e-a46f-ba9fb8df0930" />
+
 For more updates, don't wait.
