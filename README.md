@@ -1,6 +1,7 @@
 
 ## Focusnaut
-[Screencast.webm](https://github.com/user-attachments/assets/2a35e020-045a-41d5-b7de-7b500072027e)
+
+https://github.com/user-attachments/assets/a054eb8f-9d76-4a50-807f-bf4c07c43201
 
 O Focusnaut foi um Projeto 03 desenvolvido para o Hackathon do servidor no discord da Kiza Dev e pela Equipe 06. Consiste em uma plataforma com signin, signup, pomodoro e to do list simples. 
 
