@@ -68,6 +68,20 @@ Abra seu projeto usando [http://localhost:3000](http://localhost:3000) ou no lin
 
 ---
 
+### Stack Escolhida para o Projeto
+
+Frontend:
+    - NextJs
+    - Tailwindcss
+    - Shadcnui
+Backend:
+    - Node Js
+    - Express Js
+    - SQLite (descontinuado)
+    - PostgreeSQL
+
+Para conferir todas as dependências, veja os arquivos package.json
+
 ### Ferramentas utilizadas:
 - Git
 - VSCode
@@ -76,7 +90,8 @@ Abra seu projeto usando [http://localhost:3000](http://localhost:3000) ou no lin
 - Github
 - Discord
 
+
 ### Sobre
-Este prejeto roda localmente. Ainda falta algumas features para desenvolver, por hora os membros mais ativos da equipe decidiram que este será o final point do projeto no hackatho. O projeto original se encontra em repositório privado caso os colaboradores da Equipe 06 ainda queriam continuar seus estudos e desenvolvimento.
+Este prejeto roda localmente. Ainda falta algumas features para desenvolver, por hora os membros mais ativos no projeto decidiram que este será o final point do projeto no hackathon. O projeto original se encontra em repositório privado caso os colaboradores da Equipe 06 ainda queriam continuar seus estudos e desenvolvimento.
 
 For more updates, don't wait.
